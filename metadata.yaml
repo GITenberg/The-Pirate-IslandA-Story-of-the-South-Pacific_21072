@@ -1,0 +1,49 @@
+_repo: The-Pirate-IslandA-Story-of-the-South-Pacific_21072
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Staniland, Charles Joseph
+    aliases:
+    - Staniland, C. J. (Charles Joseph)
+    - Staniland, C.J.
+    birthdate: 1838
+    deathdate: 1916
+    gutenberg_agent_id: '9714'
+    url: http://www.gutenberg.org/2009/agents/9714
+  - agent_name: Wells, Joseph Robert
+    alias: Wells, J. R. (Joseph Robert)
+    gutenberg_agent_id: '9715'
+    url: http://www.gutenberg.org/2009/agents/9715
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Collingwood, Harry
+    alias: Lancaster, William Joseph Cosens
+    birthdate: 1851
+    deathdate: 1922
+    gutenberg_agent_id: '9699'
+    url: http://www.gutenberg.org/2009/agents/9699
+description: Imagine being one of only a handful of lucky souls to escape a horrific
+  shipwreck alive--only to discover that the island you've washed up on is a popular
+  waypoint for marauding pirate crews. Will these scrappy survivors make it home?
+  Read Harry Collingwood's The pirate island to find out.
+gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
+gutenberg_issued: '2007-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21072'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pirates -- Juvenile fiction'
+- !lcsh 'Oceania -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Ships -- Fires and fire prevention -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Islands -- Juvenile fiction'
+title: 'The Pirate Island: A Story of the South Pacific'
+url: http://www.gutenberg.org/ebooks/21072
